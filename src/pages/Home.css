@@ -1,0 +1,21 @@
+.teste {
+    background:  #E9ECEF;
+}
+
+.titleContainer {
+    display: flex;
+    flex-Direction: column;
+    align-items: center;
+    padding: 1rem;
+    border-Bottom: 1px solid black;
+}
+
+.image {
+    max-width: 150px;
+}
+
+.Title {
+    display: flex;
+    flex-Direction: column;
+    text-Align: center;
+}

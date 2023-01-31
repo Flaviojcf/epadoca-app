@@ -1,0 +1,12 @@
+.BakeriesContainer {
+    display: flex;
+    jusitfyContent: center;
+    textAlign: center;
+    alignItems: center;
+    flex-Direction: column;
+
+
+
+    padding: 1rem 4rem;
+
+}

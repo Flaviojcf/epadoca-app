@@ -1,0 +1,49 @@
+.Container {
+    display: flex;
+    flex-Direction: column;
+
+    gap: 2rem;
+}
+
+.BakeryContainer {
+   border: 1px solid black;
+   border-radius: 8px;
+   display: flex;
+   flex-Direction: column;
+   padding: 0.75rem;
+}
+
+.BakeryTitle {
+    display: flex;
+    flex-Direction: column;
+    text-Align: center;
+}
+
+.Content {
+    display: flex;
+    flexDirection: row;
+    width: 100%;
+    justifyContent: space-between;
+    
+}
+
+.ContentTable {
+    display: flex;
+    flex-Direction: column;
+    gap: 2.5rem;
+    margin-top: 1rem;
+}
+
+.infos {
+
+    width: 4rem;
+    height: 4rem;
+}
+
+.yellow {
+    color: #FFAD00;
+}
+
+.body {
+    margin-left: auto;
+}
