@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Flaviojcf/epadoca-challenge">
-    <img src=".public/assets/images/epadoca-app.gif" alt="Gif">
+    <img src="./public/assets/images/epadoca-app.gif" alt="Gif">
   </a>
 
 
