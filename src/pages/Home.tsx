@@ -32,15 +32,13 @@ const Home: React.FC = () => {
           </IonToolbar>
         </IonHeader>
         <div className="Main">
-       
-        <div className="Title">
-          <h1>Nossos Parceiros:</h1>
-        </div>
-        <Bakeries />
-        <Footer/>
-           
+          <div className="Title">
+            <h1>Nossos Parceiros:</h1>
+          </div>
+          <Bakeries />
         </div>
       </IonContent>
+      <Footer />
     </IonPage>
   );
 };

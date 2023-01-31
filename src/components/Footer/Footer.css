@@ -1,38 +1,37 @@
 .footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    min-height: 250px;
-    background: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  min-height: 250px;
+  background: black;
 }
 
 .containerFooter {
-    display: flex;
-    flex-direction: column;
-    align-items:center;
-    padding: 10px 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 40px;
 }
 
 .social {
-    margin-top: 4rem;
+  margin-top: 4rem;
 }
 
 .socialContainer {
-    display: flex;
-    width: 100%;
-    justify-content: space-between;
-    gap: 1rem;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  gap: 1rem;
 }
 
 .socialImage {
-    object-fit: contain;
-    max-height: 42px;
-    max-width: 42px;
-    cursor: pointer;
+  object-fit: contain;
+  max-height: 42px;
+  max-width: 42px;
+  cursor: pointer;
 }
 
-
 .epadoca-logo {
-    width: 100%;
-    min-width: 10rem;
+  width: 100%;
+  min-width: 10rem;
 }
