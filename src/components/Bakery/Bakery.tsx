@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Route } from "../../utils/Route";
 import "./Bakery.css";
 
 interface BakeryProps {
@@ -28,7 +29,7 @@ export function Bakery() {
   }, []);
 
   async function getAllBakeries() {
-    await fetch("https://localhost:44326/Bakery").then(async (response) =>
+    await fetch(Route).then(async (response) =>
       setBakeryDb(await response.json())
     );
   }

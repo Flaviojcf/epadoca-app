@@ -31,7 +31,7 @@ const Home: React.FC = () => {
             <IonTitle size="large">Blank</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <div className="teste">
+        <div className="Main">
        
         <div className="Title">
           <h1>Nossos Parceiros:</h1>
