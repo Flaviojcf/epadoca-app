@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-<h1 align="center">epadoca-WebVersion</h1>
+<h1 align="center">epadoca-App</h1>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
